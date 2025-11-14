@@ -37,12 +37,12 @@ function HeroSection() {
             <div className="absolute inset-0 bg-[#000032]/50"></div>
             <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
                 <h1 className="text-white text-4xl md:text-6xl font-[Montserrat] font-extrabold mb-4 leading-tight drop-shadow-2xl">
-                    Welcome to RCCG Grace Tabernacle
+                    Welcome to RCCG Grace Tabernacle Young Adults and Youth Church
                 </h1>
                 <p className="text-gray-200 text-lg md:text-2xl max-w-2xl mb-6 drop-shadow-lg">
                     Where Grace Speaks Louder than Words
                 </p>
-                <button className="bg-indigo-600 text-white py-3 px-8 rounded-full text-lg font-medium hover:bg-indigo-700 transition duration-300">
+                <button className="bg-[#0033A0] text-white py-3 px-8 rounded-full text-lg font-medium hover:bg-blue-700 transition duration-300">
                     Explore More
                 </button>
             </div>
