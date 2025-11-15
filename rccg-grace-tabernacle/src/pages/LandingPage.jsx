@@ -3,12 +3,12 @@ import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
 import EventsSection from "../components/EventsSection";
 import Footer from "../components/Footer";
-import YaYaLogo from "../assets/pngaaa.com-2183657.png";
+import GTLogo from "../assets/RCCG_GRACE_TABERNACLE_YP4_20251115_110527-removebg-preview (1).png";
 
 function LandingPage() {
     return (
         <div className="relative">
-            <Header logo={YaYaLogo}/>
+            <Header logo={GTLogo}/>
             <div>
                 <HeroSection />
             </div>
