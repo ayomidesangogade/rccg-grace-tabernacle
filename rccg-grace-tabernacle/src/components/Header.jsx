@@ -5,9 +5,9 @@ import {Menu, X} from "lucide-react";
 function Header({logo}) {
     const Links = [
         {name: "HOME", link: "/"},
-        {name: "SERVICE", link: "/"},
         {name: "ABOUT", link: "/"},
-        {name: "BLOG'S", link: "/"},
+        {name: "EVENTS", link: "/"},
+        {name: "MINISTRIES", link: "/"},
         {name: "CONTACT", link: "/"},
     ]
 
