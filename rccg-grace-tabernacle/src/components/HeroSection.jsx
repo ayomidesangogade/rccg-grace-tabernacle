@@ -43,7 +43,7 @@ function HeroSection() {
                     Where Grace Speaks Louder than Words
                 </p>
                 <button className="bg-[#0033A0] text-white py-3 px-8 rounded-full text-lg font-medium hover:bg-blue-700 transition duration-300">
-                    Explore More
+                    About Us
                 </button>
             </div>
             </div>

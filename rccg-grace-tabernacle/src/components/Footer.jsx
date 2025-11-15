@@ -34,7 +34,7 @@ export default function Footer() {
                     <div className="space-y-1 text-sm text-slate-300">
                         <p>Email: info@gracetabernacle.org</p>
                         <p>Phone: +234 800 123 4567</p>
-                        <p>Address: 23 Grace Avenue, Ibadan, Nigeria</p>
+                        <p>Address: Ifedapo Cooperative Building, Asolo, Ibadan.</p>
                     </div>
 
                     <div className="flex space-x-5 mt-6">
